@@ -2,7 +2,7 @@
 # Oasis Infobyte Internship Project
 
 ## Overview
-This project delivers a complete, end-to-end Exploratory Data Analysis on a 10,000-record retail sales dataset, completed as Task 1 of the Data Science Internship at Oasis Infobyte. Beyond simply visualizing the data, this analysis uncovers concrete revenue drivers, customer behaviour patterns, and operational insights — translating raw numbers into actionable business recommendations. The workflow demonstrates practical proficiency in data cleaning, statistical analysis, and storytelling with data using Python's core analytics stack (pandas, matplotlib, seaborn), reflecting a business-first approach to data analysis rather than analysis for its own sake.
+This project delivers a complete, end-to-end Exploratory Data Analysis on a 10,000-record retail sales dataset, completed the project of the Data Analytics Internship at Oasis Infobyte. Beyond simply visualizing the data, this analysis uncovers concrete revenue drivers, customer behaviour patterns, and operational insights — translating raw numbers into actionable business recommendations. The workflow demonstrates practical proficiency in data cleaning, statistical analysis, and storytelling with data using Python's core analytics stack (pandas, matplotlib, seaborn), reflecting a business-first approach to data analysis rather than analysis for its own sake.
 
 
 ## Dataset
@@ -79,4 +79,5 @@ Jupyter Notebook — development environment
 Noor Ul Huda Fatima-Data Analytics Intern at Oasis Infobyte
 
 GitHub: [https://github.com/noorulhuda-fatima]
+
 LinkedIn: [www.linkedin.com/in/noor-ul-huda-fatima-a01382387]
