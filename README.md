@@ -66,16 +66,17 @@ Jupyter Notebook — development environment
 ## Visualizations
 
 ### Monthly Sales Trend
-![Monthly Sales Trend](charts/Monthly_Sales.png)
+![Monthly Sales Trend](Charts/Monthly_Sales.png)
 
 ### Revenue by Product Category
-![Revenue by Category](charts/Revenue_by_Category.png)
+![Revenue by Category](Charts/Revenue_by_Category.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](charts/Correlation_Matrix.png)
+![Correlation Heatmap](Charts/Correlation_Matrix.png)
 
 
 ## Author
 Noor Ul Huda Fatima-Data Analytics Intern at Oasis Infobyte
+
 GitHub: [https://github.com/noorulhuda-fatima]
 LinkedIn: [www.linkedin.com/in/noor-ul-huda-fatima-a01382387]
